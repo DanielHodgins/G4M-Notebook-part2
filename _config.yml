@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Daniel Hodgins.
 twitter_username: DanielHodgins3
 github_username: DanielHodgins
-minimal_mistakes_skin: default
+
 search: true
 
 # Build settings
