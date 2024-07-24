@@ -19,12 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Daniel Hodgins.
 twitter_username: DanielHodgins3
 github_username: DanielHodgins
-
+#minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
